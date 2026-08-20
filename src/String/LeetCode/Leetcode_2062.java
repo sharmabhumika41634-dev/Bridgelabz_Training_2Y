@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_2062 {
     public static int countVowelSubstrings(String word) {

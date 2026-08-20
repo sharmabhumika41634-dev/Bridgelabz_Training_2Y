@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_1662 {
     public static boolean arrayStringsAreEqual(String[] word1, String[] word2) {

@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_520 {
     public static boolean detectCapitalUse(String word) {

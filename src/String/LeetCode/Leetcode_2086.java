@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_2086 {
     public static int accountBalanceAfterPurchase(int purchaseAmount) {

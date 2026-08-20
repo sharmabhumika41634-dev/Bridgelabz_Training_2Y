@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_1528 {
     public static String restoreString(String s, int[] indices) {

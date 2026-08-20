@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_387 {
     public static int firstUniqChar(String s) {

@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_3120 {
     public static int numberOfSpecialChars(String word) {

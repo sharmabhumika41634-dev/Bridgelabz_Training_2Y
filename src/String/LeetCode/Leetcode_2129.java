@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_2129 {
     public static String capitalizeTitle(String title) {

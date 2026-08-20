@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_171 {
     public static int titleToNumber(String col) {

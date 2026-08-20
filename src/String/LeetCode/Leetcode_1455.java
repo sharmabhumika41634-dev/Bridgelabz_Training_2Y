@@ -1,4 +1,4 @@
-package String;
+package String.LeetCode;
 
 public class Leetcode_1455 {
     public static int isPrefixOfWord(String sentence, String searchWord) {
